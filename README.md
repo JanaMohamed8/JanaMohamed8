@@ -40,16 +40,6 @@
 <a href = "https://www.linkedin.com/in/jana-mohamed-407a87306/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="50" height="50" /></a>
 </p>
 
-## 👨‍💻A little more about me...  
-
-```javascript
-const JanaMohamed = {
-  code: [html,css,cpp,javascript,typescript],
-  askMeAbout: [github,git,postman,bootstrap,tailwind,sass,angular, OPP],
- 
-}
-```
-
 ## 🏆 My Certifications :arrow_down:
 
 - [ICPC 2024 contest](https://drive.google.com/drive/folders/1sv_at9tac9_j7rXi4XqfHxPGsGW5Lrup)
